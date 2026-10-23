@@ -1,0 +1,16 @@
+site_name: AlMoutmag
+site_description: Secure MCP Tunnel
+site_url: https://mohammadfhgjvhgi.github.io/almoutmag-docs
+theme:
+  name: material
+  language: ar
+  direction: rtl
+  features:
+    - navigation.tabs
+    - search.suggest
+nav:
+  - Home: index.md
+  - Installation: install.md
+  - User Guide: user-guide.md
+  - FAQ: faq.md
+  - Pricing: pricing.md
